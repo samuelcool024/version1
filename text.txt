@@ -10,6 +10,6 @@ to commit- git commit -m "first commit message"
 
 push: 
     git push -u origin main
-
+    note: this will push the local repo to the remote github repo
 
 
