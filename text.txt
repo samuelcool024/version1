@@ -6,6 +6,10 @@
 
 to commit- git commit -m "first commit message"
 
+    note: commits can only be done after a code or modification or correction is done to a file.
+
 push: 
     git push -u origin main
+
+
 
