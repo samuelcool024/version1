@@ -1,8 +1,11 @@
 1. initialization with- git init   #done cone in the beginning of the project
 
 2. staging area- 
-(a) git add filename   -for single file
-(b) git add .    -for all files
+    (a) git add filename   -for single file
+    (b) git add .    -for all files
 
 to commit- git commit -m    "first commit message"
+
+push: 
+    git push -u origin main
 
