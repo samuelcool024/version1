@@ -15,6 +15,12 @@ p{
 }
 
 
+p{
+    background-color: blue;
+    color: white;
+}
+
+
 .features1{
     background-color: red;
     color: white;
