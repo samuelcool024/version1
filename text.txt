@@ -12,4 +12,14 @@ push:
     git push -u origin main
     note: this will push the local repo to the remote github repo
 
+git pull  --to push to origin main/master or version branch
+
+
+git clone paste reo url --to get cloned files
+
+
+git checkout -b and <banch name> --to dreate and enter new branch
+
+git checkout main --to go back to main branch
+
 
